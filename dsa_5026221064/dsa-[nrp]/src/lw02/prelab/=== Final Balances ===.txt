@@ -1,0 +1,8 @@
+=== Final Balances ===
+Raissa : 270000
+Fachriza : 80000
+Dedy : 100000
+
+=== Failed Transactions ===
+Dedy WITHDRAW 150000
+Fachriza WITHDRAW 100000
